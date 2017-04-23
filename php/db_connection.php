@@ -1,6 +1,6 @@
 <?php
 class Db_connection{
-	const DB_NAME = 'texnadzor';
+	const DB_NAME = 'db_name';
 	const DB_USER = 'root';
 	const DB_PASSWORD = '';
 	const DB_HOST = 'localhost';
